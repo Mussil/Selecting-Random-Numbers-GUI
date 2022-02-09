@@ -1,6 +1,6 @@
 # Random application
 
-This program is a utility for a project where there are 4 parts and a total of 24 tasks for each part the user has to get task numbers randomly
+This program is a utility for a project where there are 4 parts and a total of 24 tasks for each part the user has to get task numbers randomly.<br>
 ![image](https://user-images.githubusercontent.com/79862052/153236207-d0829c52-cc59-4caa-9020-06d809644ad9.png)
 
 ## Getting Started
