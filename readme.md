@@ -1,6 +1,6 @@
 # Random application
 
-Randomly select question numbers for each part, while each part has a Different value range. 
+This program is a utility for a project where there are 4 parts and a total of 24 tasks for each part the user has to get task numbers randomly
 
 ## Getting Started
 
@@ -42,10 +42,6 @@ if the result of part b or d return the same number twice the user can click aga
 Use only buttons, there is no risk of improper input
 
 
-## Authors
-
-* **Chaya levin** 
-* **Ruth Bracha Cohen** 
 
 
 
